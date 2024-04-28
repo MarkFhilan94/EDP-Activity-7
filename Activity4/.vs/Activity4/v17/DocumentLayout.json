@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\account_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:account_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|c:\\users\\ryan faustino\\onedrive\\documents\\visual studio 2022\\forms\\activity4\\account_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:account_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\passrecover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:passrecover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\passrecover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4AC5D9-C6BB-41C9-AFB0-9E2D6B15639A}|Activity4.csproj|solutionrelative:passrecover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:55:52.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAIwPQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T02:19:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassRecover.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\PassRecover.cs",
+              "RelativeDocumentMoniker": "PassRecover.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\PassRecover.cs",
+              "RelativeToolTip": "PassRecover.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwIkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:10:22.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account_settings.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Account_settings.cs",
+              "RelativeDocumentMoniker": "Account_settings.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Account_settings.cs",
+              "RelativeToolTip": "Account_settings.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAmwBQBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T02:54:09.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T22:58:38.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account_settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Account_settings.cs",
+              "RelativeDocumentMoniker": "Account_settings.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\Account_settings.cs [Design]",
+              "RelativeToolTip": "Account_settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:23:56.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PassRecover.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\PassRecover.cs",
+              "RelativeDocumentMoniker": "PassRecover.cs",
+              "ToolTip": "C:\\Users\\Ryan Faustino\\OneDrive\\Documents\\Visual Studio 2022\\Forms\\Activity4\\PassRecover.cs [Design]",
+              "RelativeToolTip": "PassRecover.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T06:46:59.041Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
