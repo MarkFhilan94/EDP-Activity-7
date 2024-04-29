@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
+// Login Page
 namespace Activity4
 {
     public partial class Login : Form

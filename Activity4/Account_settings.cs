@@ -16,6 +16,7 @@ using OfficeOpenXml;
 using System.IO;
 using MySqlX.XDevAPI.Relational;
 
+// Settings page
 namespace Activity4
 {
     public partial class Account_settings : Form
